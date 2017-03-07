@@ -2,7 +2,7 @@
     "name": "htmldiff",
     "version": "0.0.4",
     "description": "HTML Diffing in JavaScript (CoffeeScript)",
-    "main": "htmldiff.js",
+    "main": "js/htmldiff.js",
     "scripts": {
         "test": "mocha -R min",
         "install": "coffee --output js/ --compile src/"
@@ -12,7 +12,7 @@
         "url": "git://github.com/tnwinc/htmldiff.js.git"
     },
     "issues": {
-      "url": "https://github.com/tnwinc/htmldiff.js/issues"
+        "url": "https://github.com/tnwinc/htmldiff.js/issues"
     },
     "keywords": [
         "diff",
